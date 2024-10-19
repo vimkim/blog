@@ -5,5 +5,16 @@ multilingual = false
 src = "src"
 title = "vimkim's blog"
 
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
+smart-punctuation = true
+mathjax-support = false
+copy-fonts = true
+no-section-label = false
+git-repository-url = "https://github.com/vimkim"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/vimkim/blog/edit/main/{path}"
+
 [output.html.fold]
 enable = true
