@@ -7,7 +7,7 @@ I am a vim user as well as a software developer, also interested in CLI / TUI to
 You are currently on my [blog (https://blog.vimkim.dev).](https://blog.vimkim.dev)
 
 You can come visit
-[my website (https://vimkim.dev)](https://vimkim.dev),
+my [website (https://vimkim.dev)](https://vimkim.dev),
 or my
 [github page (https://github.com/vimkim).](https://github.com/vimkim)
 
