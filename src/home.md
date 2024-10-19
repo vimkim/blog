@@ -30,6 +30,7 @@ I use Arch btw.
 - btop
 - delta
 - dust
+- atuin
 - forgit
 - termshark
 - bpftrace
@@ -37,16 +38,17 @@ I use Arch btw.
 - asdf
 - eza
 - bat
+- miniserve
+- cgdb
+- gdb-dashboard
 - pacman & paru package manager
 - grc
 - sheldon
 - arp-scan
 - asciinema
-- atuin
 - beautysh
 - bed binary editor
 - binsider
-- miniserve
 - bison
 - bottom
 - broot
