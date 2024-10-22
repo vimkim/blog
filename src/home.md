@@ -16,49 +16,54 @@ I use Arch btw.
 ## CLI Tools I Use
 
 - **neovim**
-- **nix**
 - **zellij**
 - tmux
-- fzf
-- fd
-- ripgrep
-- lazygit
-- lazydocker
-- rr debugger
-- uftrace
-- htop
+- **fzf**
+- **fd**
+- **ripgrep**
+- **lazygit**
+- **lazydocker**
+- **rr debugger**
+- **uftrace**
+- **htop**
 - btop
-- delta
+- bottom
+- **delta**
+- **diffnav**
+- **diffstat**
+- diff-so-fancy
+- difftastic
+- **atuin**
+- **asdf**
+- **eza**
+- **nix**
+- pacman & paru package manager
+- lsd
+- **bat**
+- grc
 - dust
-- atuin
+- diskonaut
+- yazi
+- broot
+- sheldon
+- **direnv**
 - forgit
 - termshark
-- bpftrace
-- chezmoi
-- asdf
-- eza
-- bat
-- miniserve
 - cgdb
 - gdb-dashboard
-- pacman & paru package manager
-- grc
-- sheldon
+- bpftrace
+- chezmoi
+- miniserve
+- **mdbook**
 - arp-scan
 - asciinema
 - beautysh
 - bed binary editor
 - binsider
+- hexyl
 - bison
-- bottom
-- broot
 - chafa
 - croc
-- diff-so-fancy
-- diffstat
-- difftastic
-- direnv
-- diskonaut
 - fastfetch
 - fq
 - gibo
@@ -68,10 +73,8 @@ I use Arch btw.
 - glow
 - graphviz
 - helix
-- hexyl
 - hugo
 - jq
-- lsd
 - nmap
 - parallel
 - procs
@@ -95,9 +98,7 @@ I use Arch btw.
 - vcpkg
 - vhs
 - viu
-- yazi
 - zig
 - zoxide
 - carbonyl
 - netscanner
-- mdbook
