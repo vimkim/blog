@@ -6,3 +6,6 @@ deploy:
 
 today:
     util/new-page.sh
+
+serve:
+    mdbook serve
